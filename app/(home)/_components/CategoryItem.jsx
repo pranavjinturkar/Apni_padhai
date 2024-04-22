@@ -7,10 +7,13 @@ function CategoryItem({course}) {
   
   return (
     <div>
+
+      
       <div
           
           className="rounded-lg border p-2 cursor-pointer hover:border-purple-600"
         >
+
           <Image src={course?.banner?.url}
                 alt={course?.name}
                 width={1000}
