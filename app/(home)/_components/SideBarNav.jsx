@@ -12,7 +12,7 @@ function SideBarNav() {
   const menuList = [
     {
       id: 1,
-      name: 'Browse',
+      name: 'Browsee',
       icon:Search,
       path: '/browse'
     },
