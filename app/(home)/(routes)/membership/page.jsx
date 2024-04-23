@@ -18,7 +18,7 @@ function Membership() {
 
         <p className="mt-2 sm:mt-4">
           <strong className="text-3xl font-bold text-white sm:text-4xl">
-            2.99$
+            399Rs
           </strong>
 
           <span className="text-sm font-medium text-white">/month</span>
@@ -121,7 +121,7 @@ function Membership() {
 
         <p className="mt-2 sm:mt-4">
           <strong className="text-3xl font-bold text-white sm:text-4xl">
-            14.99$
+            899$
           </strong>
 
           <span className="text-sm font-medium text-white">/month</span>
