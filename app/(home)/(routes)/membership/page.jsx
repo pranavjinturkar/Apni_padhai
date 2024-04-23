@@ -121,10 +121,10 @@ function Membership() {
 
         <p className="mt-2 sm:mt-4">
           <strong className="text-3xl font-bold text-white sm:text-4xl">
-            899$
+            899Rs
           </strong>
 
-          <span className="text-sm font-medium text-white">/month</span>
+          <span className="text-sm font-medium text-white">/Year</span>
         </p>
       </div>
 
